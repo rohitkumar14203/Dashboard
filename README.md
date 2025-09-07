@@ -9,13 +9,13 @@ categories.
 
 ## ✨ Features
 
--   🗂 **Category-based Widgets** → Organize widgets under CSPM and CWPP categories.\
--   ➕ **Add Widget Modal** → Add new widgets to any category.\
--   ❌ **Remove Widget** → Easily remove widgets from a category.\
+-   🗂 **Category-based Widgets** → Organize widgets under CSPM and CWPP categories.
+-   ➕ **Add Widget Modal** → Add new widgets to any category.
+-   ❌ **Remove Widget** → Easily remove widgets from a category.
 -   🔍 **Search Bar** → Search widgets by name directly from the
-    navbar.\
+    navbar.
 -   ⚡ **React Context API** → Centralized state management for widgets
-    and categories.\
+    and categories.
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ categories.
 ### 1️⃣ Clone the repository
 
 ``` bash
-git clone https://github.com/your-username/cnapp-dashboard.git
-cd cnapp-dashboard
+git clone https://github.com/your-username/dashboard.git
+cd dashboard
 ```
 
 ### 2️⃣ Install dependencies
